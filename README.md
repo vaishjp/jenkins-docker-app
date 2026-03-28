@@ -50,7 +50,7 @@ Dynamic Docker Agent (Container)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `Dockerfile` → Defines application container  
 - `app.js` → Sample Node.js application  
